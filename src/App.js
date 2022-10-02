@@ -14,8 +14,6 @@ function App() {
       <Tech />
       <Projects />
       <Contact />
-      
-
     </div>
   );
 }

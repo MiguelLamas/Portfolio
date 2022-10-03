@@ -161,7 +161,7 @@
 @media (min-width: 640px) {
     .home-h1 {
         font-size: 5rem;
-        line-height: 1;
+        line-height: 1.15;
         
     }
 }
@@ -170,14 +170,14 @@
 {
     .home-h1 {
         font-size: 2.5rem;
-        line-height: 2.5rem;
+        line-height: 2.6rem;
         
     }
 }
 
 
 .home-h2 {
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 3.3rem;
     font-weight: 600;
     color: #000;
@@ -185,7 +185,7 @@
 
 @media (min-width: 640px) {
     .home-h2 {
-        font-size: 5rem;
+        font-size: 4.5rem;
         line-height: 1;
     }
 }
@@ -193,7 +193,7 @@
 @media only screen and (max-width: 375px) 
 {
     .home-h2 {
-        font-size: 2.5rem;
+        font-size: 2.25rem;
         line-height: 2.5rem;
         
     }
@@ -201,7 +201,7 @@
 
 .home-p {
     font-size: 1.1rem;
-    padding-top: 1.75rem;
+    padding-top: 1.5rem;
     padding-bottom: 0.25rem;
     max-width: 750px;
     color: #000;

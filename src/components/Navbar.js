@@ -10,7 +10,7 @@ function Navbar() {
   return (
     <div className="nav-div">
     {/* logo */}
-      <div className="hover:scale-110 duration-500">
+      <div className="hover:scale-125 duration-500">
       <Link to="home" smooth={true} duration={500}>
       <img className="logo" src={mlogo} alt="Logo" style={{ width: "45px" }} />
       </Link>

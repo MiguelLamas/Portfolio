@@ -23,8 +23,8 @@ function Projects() {
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
-            <span className="font-sans text-xl text-center font-bold text-[#000] tracking-wider">
-            Pet Care App - Group Project
+            <span className="font-sans text-xl text-center p-8 font-bold text-[#000] tracking-wider">
+            Pet Care App
               </span>
               <div className="pt-8 text-center">
                 <a href="https://care-full.netlify.app/" target="_blank" rel="noreferrer">

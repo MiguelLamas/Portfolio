@@ -14,7 +14,7 @@ function Contact() {
         <p className="contact-p1">Contact</p>
         <p className="contact-p2">
           Please don't hesitate to get in contact using the form, mail icon or 
-          social media channels below.
+          via the social media channels below.
         </p>
       </div>
       <input

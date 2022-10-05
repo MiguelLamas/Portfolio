@@ -17,19 +17,19 @@ function Contact() {
           via the social media channels below.
         </p>
       </div>
-      <input
+      <input required
         className="contact-input1 font-sans"
         type="text"
         placeholder="Name"
         name="name"
       />
-      <input
+      <input required
         className="contact-input2 font-sans"
         type="email"
         placeholder="Email"
         name="email"
       />
-      <textarea
+      <textarea required
         className="contact-textarea font-sans"
         name="message"
         rows="10"

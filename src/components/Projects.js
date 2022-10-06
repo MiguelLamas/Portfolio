@@ -11,7 +11,7 @@ function Projects() {
         <div className="projects-div1">
           <p className="projects-p1">Projects</p>
           <p className="projects-p2">Here are some of the projects I've been working on recently during the School of Code Bootcamp. 
-          I'll be adding some personal projects as I continue to learn, practice and build.</p>
+          I'll be adding some personal projects as I continue to learn, practice and build. Hover or click on each card to find out more.</p>
         </div>
 
         {/* grid/card container */}

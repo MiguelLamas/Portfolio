@@ -14,7 +14,7 @@ function Home() {
           and learn new frontend and backend technologies, as I work towards transitioning into my first role in tech.
         </p>
         <div>
-        <Link to="about" smooth={true} duration={500}>
+        <Link to="projects" smooth={true} duration={500}>
           <button className="home-button font-sans text-sm rounded border-black text-black group border px-6 py-3 my-2 flex items-center hover:bg-[#000] hover:border-[#000] hover:text-[#FFF]">
             READ MORE
             <span className="group-hover:rotate-90 duration-900">

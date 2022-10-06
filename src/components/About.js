@@ -21,7 +21,7 @@ function About() {
                 Before deciding to dive head first into a career in tech, I spent 15 years as a Photography Producer, managing and seeking out new business opportunities in advertising for commercial photographers. This helped me develop strong analytical, problem solving and people skills within a creative environment, which I really enjoy.
                 </p>
                 <br></br>
-                <p className="font-light my-1 mx-4">I grow and adapt to new and complex challenges quickly, and aim to continue learning and evolving.
+                <p className="font-light my-1 mx-4">I learn and adapt to new and complex challenges quickly, and aim to continue growing and evolving.
                 I'm keen to find my voice within the right tech role, where I can add value to a team. Ultimately, I'd love to continue developing my skills working on products and experiences that bring value to people's lives.</p>
                 <br></br>
                 <p className="font-light my-1 mx-4">

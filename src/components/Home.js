@@ -16,7 +16,7 @@ function Home() {
         <div>
         <Link to="projects" smooth={true} duration={500}>
           <button className="home-button font-sans text-sm rounded border-black text-black group border px-6 py-3 my-2 flex items-center hover:bg-[#000] hover:border-[#000] hover:text-[#FFF]">
-            READ MORE
+            VIEW WORK
             <span className="group-hover:rotate-90 duration-900">
               <HiArrowNarrowRight className='ml-3' />
             </span>

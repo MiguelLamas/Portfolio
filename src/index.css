@@ -153,7 +153,7 @@
 
 .home-h1 {
     font-size: 3.5rem;
-    line-height: 4rem;
+    line-height: 4.5rem;
     font-weight: 700;
     color: #000;
 }    
@@ -161,7 +161,7 @@
 @media (min-width: 640px) {
     .home-h1 {
         font-size: 5rem;
-        line-height: 1.1;
+        line-height: 1.2;
         
     }
 }
@@ -180,7 +180,7 @@
     font-size: 3.25rem;
     line-height: 2.95rem;
     font-weight: 600;
-    color: #000;
+    color: #db2777;
 }   
 
 @media (min-width: 640px) {

@@ -8,9 +8,9 @@ function Home() {
       {/* Container */}
       <div className="home-container">
         <h1 className="home-h1">Miguel Lamas</h1>
-        <h2 className="home-h2">Junior Full Stack Developer.</h2>
+        <h2 className="home-h2">Full-Stack Developer.</h2>
         <p className="home-p">
-          I'm a London based Junior Developer who recently graduated from the School of Code Bootcamp - Cohort 12. I continue to explore
+          I'm a London based full-stack developer who recently graduated from the School of Code Bootcamp - Cohort 12. I continue to explore
           and learn new frontend and backend technologies, as I work towards transitioning into my first role in tech.
         </p>
         <div>

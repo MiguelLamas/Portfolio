@@ -1,6 +1,7 @@
 import React from "react";
 import careFull from "../assets/careFull.png";
 import rickAndMorty from "../assets/rickAndMorty.png"
+import toDoViteReactApp from "../assets/toDoViteReactApp.png"
 import comingSoon3 from "../assets/comingSoon3.png"
 
 function Projects() {
@@ -67,21 +68,21 @@ function Projects() {
 
           {/* grid/card item */}
           <div
-            style={{ backgroundImage: `url(${comingSoon3})` }}
+            style={{ backgroundImage: `url(${toDoViteReactApp})` }}
             className="shadow-lg shadow-[#040c16] group container flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
             <span className="font-sans text-xl text-center p-8 font-bold text-[#000] tracking-wider">
-            Project Name
+            To Do List App
               </span>
               <div className="pt-8 text-center">
-                <a href="/" target="_blank" rel="noreferrer">
+                <a href="https://react-vite-to-do.netlify.app/" target="_blank" rel="noreferrer">
                   <button className="font-sans border border-black text-center px-4 py-3 m-2 bg-[#000] text-[#FFF] font-normal text-sm">
                     DEMO
                   </button>
                 </a>
-                <a href="/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/MiguelLamas/react-todo" target="_blank" rel="noreferrer">
                   <button className="font-sans border border-black text-center px-4 py-3 m-2 bg-[#000] text-[#FFF] font-normal text-sm">
                     GITHUB
                   </button>

@@ -129,12 +129,12 @@ function Projects() {
             PERN Yelp Clone App
               </span>
               <div className="pt-8 text-center">
-                <a href="/" target="_blank" rel="noreferrer">
+                <a href="https://yelp-clone-pern-stack-frontend.onrender.com" target="_blank" rel="noreferrer">
                   <button className="font-sans border border-black text-center px-4 py-3 m-2 bg-[#000] text-[#FFF] font-normal text-sm">
                     DEMO
                   </button>
                 </a>
-                <a href="/" target="_blank" rel="noreferrer">
+                <a href="https://github.com/MiguelLamas/yelp-clone-pern-stack" target="_blank" rel="noreferrer">
                   <button className="font-sans border border-black text-center px-4 py-3 m-2 bg-[#000] text-[#FFF] font-normal text-sm">
                     GITHUB
                   </button>

@@ -3,6 +3,7 @@ import careFull from "../assets/careFull.png";
 import rickAndMorty from "../assets/rickAndMorty.png"
 import toDoViteReactApp from "../assets/toDoViteReactApp.png"
 import pernToDoApp from "../assets/pernToDoApp.png"
+import RestaurantFinder from "../assets/RestaurantFinder.png"
 import comingSoon3 from "../assets/comingSoon3.png"
 
 function Projects() {
@@ -119,13 +120,13 @@ function Projects() {
           
           {/* grid/card item */}
           <div
-            style={{ backgroundImage: `url(${comingSoon3})` }}
+            style={{ backgroundImage: `url(${RestaurantFinder})` }}
             className="shadow-lg shadow-[#040c16] group container flex justify-center items-center mx-auto content-div"
           >
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
             <span className="font-sans text-xl p-8 font-bold text-[#000] tracking-wider">
-            Project Name
+            YELP PERN Clone
               </span>
               <div className="pt-8 text-center">
                 <a href="/" target="_blank" rel="noreferrer">

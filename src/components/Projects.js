@@ -126,7 +126,7 @@ function Projects() {
             {/* Hover Effects */}
             <div className="opacity-0 group-hover:opacity-100">
             <span className="font-sans text-xl p-8 font-bold text-[#000] tracking-wider">
-            YELP PERN Clone
+            PERN Yelp Clone App
               </span>
               <div className="pt-8 text-center">
                 <a href="/" target="_blank" rel="noreferrer">
